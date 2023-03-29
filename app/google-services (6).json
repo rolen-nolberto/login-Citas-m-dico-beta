@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9931208488",
+    "firebase_url": "https://logincitas-83d86-default-rtdb.firebaseio.com",
+    "project_id": "logincitas-83d86",
+    "storage_bucket": "logincitas-83d86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9931208488:android:05983583216d34790a421d",
+        "android_client_info": {
+          "package_name": "com.example.logincitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9931208488-78uu8fo9od5i9a7eofqep8nh8d77fbe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logincitas",
+            "certificate_hash": "0b76820f2445f7ca9ace233b6c343e3cf4d2ad25"
+          }
+        },
+        {
+          "client_id": "9931208488-85qs7h8ioo5eqrdnsjrec7c51rgaqnlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vxHGJTTtkcQ7c3MHqEAlqn2yyp3N0mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9931208488-85qs7h8ioo5eqrdnsjrec7c51rgaqnlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
